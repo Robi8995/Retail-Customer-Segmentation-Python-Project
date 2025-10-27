@@ -535,8 +535,8 @@ for segment in rfm['Segment'].unique():
 ---
 
 ## 📝 Author
-**Your Name**  
-[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+**Robin Jimmichan P**  
+[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ## 📚 Technical Stack
 - Language: Python 3.8+
