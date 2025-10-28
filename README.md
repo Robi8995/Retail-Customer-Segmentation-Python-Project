@@ -535,7 +535,7 @@ for segment in rfm['Segment'].unique():
 ---
 
 ## 📝 Author
-**Robin Jimmichan P**  
+**Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ## 📚 Technical Stack
@@ -543,12 +543,6 @@ for segment in rfm['Segment'].unique():
 - Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - Algorithm: K-Means Clustering, RFM Analysis
 - Tools: Jupyter Notebook, Google Colab
-
----
-
-## 📞 Support & Collaboration
-
-For questions, suggestions, or collaboration opportunities, feel free to reach out via LinkedIn or GitHub.
 
 ---
 
