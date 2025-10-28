@@ -550,4 +550,4 @@ for segment in rfm['Segment'].unique():
 
 ---
 
-*This project demonstrates practical data science expertise in customer analytics, combining RFM analysis with machine learning to drive measurable improvements in customer segmentation, targeted marketing effectiveness, retention rates, and overall business revenue through data-driven customer intelligence.*
+*This project demonstrates practical data science expertise in customer analytics, combining RFM analysis with machine learning to drive measurable improvements in customer segmentation, targeted marketing effectiveness, retention rates, and overall business revenue through data-driven customer intelligence*
