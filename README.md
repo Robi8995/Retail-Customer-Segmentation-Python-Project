@@ -535,10 +535,12 @@ for segment in rfm['Segment'].unique():
 ---
 
 ## 📚 Technical Stack
-- Language: Python 3.8+
-- Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- Algorithm: K-Means Clustering, RFM Analysis
-- Tools: Jupyter Notebook, Google Colab
+| Component | Technology |
+|-----------|------------|
+| **Language** | Python 3.8+ |
+| **Data Processing** | Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| **Visualization** | Matplotlib, Seaborn |
+| **Environment** | Jupyter Notebook / VS Code |
 
 ---
 
