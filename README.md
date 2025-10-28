@@ -534,15 +534,17 @@ for segment in rfm['Segment'].unique():
 
 ---
 
-## 📝 Author
-**Robin Jimmichan Pooppally**  
-[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
-
 ## 📚 Technical Stack
 - Language: Python 3.8+
 - Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - Algorithm: K-Means Clustering, RFM Analysis
 - Tools: Jupyter Notebook, Google Colab
+
+---
+
+## 📝 Author
+**Robin Jimmichan Pooppally**  
+[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
 ---
 
